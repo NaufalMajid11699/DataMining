@@ -1,0 +1,11 @@
+country,age,salary,purchased
+klaten,44,72000,no
+ungaran,27,48000,yes
+semarang,30,54000,no
+klaten,38,61000,no
+ungaran,40,,yes
+semarang,35,58000,yes
+klaten,,52000,no
+ungaran,48,79000,yes
+semarang,50,83000,no
+ungaran,37,67000,yes
